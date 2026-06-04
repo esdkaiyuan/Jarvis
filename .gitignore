@@ -1,0 +1,16 @@
+node_modules/
+dist/
+test-artifacts/
+test-results/
+coverage/
+.env
+.env.*
+!.env.example
+jarvis-actions/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.local
+.DS_Store
+Thumbs.db
